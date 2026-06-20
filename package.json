@@ -1,0 +1,21 @@
+{
+  "name": "system-info-tool",
+  "version": "1.0.0",
+  "description": "A JavaScript-based tool that gathers and displays system information and environment variables with CRUD operations on code files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "info": "node info.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "system-info",
+    "crud",
+    "hackathon"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.7"
+  }
+}
